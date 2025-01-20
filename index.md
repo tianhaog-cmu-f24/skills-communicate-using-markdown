@@ -19,3 +19,7 @@ var myVar = "Hello, world!";
 ``` python
 x, y = 0, 0
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
